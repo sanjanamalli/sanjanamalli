@@ -1,5 +1,5 @@
 # 🐇 About Me:
-I'm currently working on making fun projects and interactive websites.<br>Learning Game designing and animations. Currently working on a new game development.<br>I also write scripts and music.<br>
+I'm currently working on making fun projects and interactive websites.<br>Learning Game designing and animations. Currently working on a new horror game dev.<br>I also write scripts and music.<br>
 
 
 ## 🌐 Socials:
